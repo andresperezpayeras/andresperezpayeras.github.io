@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "name": "temporizador",
+  "package_path": "http://andresperezpayeras.github.io/proyectos/Firefox%20OS/cronometro_localstorage_gestures/packaged/packaged.zip",
+  "type": "web",
+  "developer": {
+    "name": "A.P.P.",
+    "url": "http://www.ejemplo.es"
+  },
+  "icons": {
+    "22": "/icons/22.png",
+    "32": "/icons/32.png",
+    "48": "/icons/48.png",
+    "64": "/icons/64.png",
+    "128": "/icons/128.png"
+  }
+}
